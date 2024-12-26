@@ -16,4 +16,10 @@ df_job_title_count = df_US['job_title_short'].value_counts().reset_index(name='j
 ```
 
 ### Results
-![Visualization](3_Projects\Images\Skills Percent.png)
+![Visualization of Top Skills for Data Nerds](3_Projects/Images/Skills%20Percent.png)
+
+
+### Insights
+
+What we learned from this chart : 
+- Python and SQL are the most required ones
